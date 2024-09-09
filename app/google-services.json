@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094974659441",
+    "project_id": "sih-transportation",
+    "storage_bucket": "sih-transportation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094974659441:android:2d0536037ac3049ef0b4d0",
+        "android_client_info": {
+          "package_name": "com.sih.transportation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKD7wc5IXPeXz_9jbui2dZd6ATQA2d7ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
